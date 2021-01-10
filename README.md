@@ -17,3 +17,11 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Recommended plugins
+
+### VS Code
+* EditorConfig for VS Code
+* ESLint
+* SASS
+* Vetur
